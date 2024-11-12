@@ -1,5 +1,6 @@
-## Hi there 👋 My name is Darijo Prerad
-## Software Engineer driven by a passion for building something impactful
+# About Me:
+- My name is **Darijo Prerad** 
+- Software Engineer driven by a passion for building something impactful
 
 
 
